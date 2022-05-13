@@ -35,4 +35,4 @@ Dünya üzerinde iki yüz elli üç milyon görme engelli bulunuyor. Görsel dok
 - Prototip Açıklamaları
 
 ### Detaylar (İsteğe Bağlı)
-- Detay Açıklamalar
+- Gönüllülerimizin ve görme engelli kullanıcılarımızın detaylı grafikleri: https://onedrive.live.com/?cid=e6ab40edae4cac18&id=E6AB40EDAE4CAC18%21236&authkey=%21AAF31brDerAZqqI
