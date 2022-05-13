@@ -1,8 +1,7 @@
 <h2 align="center"><span><strong>2022 İBB Sürdürülebilir Şehirler Hackathonu</strong></span></h2>
-Github Repolar:
-Front-end Linkimiz : https://github.com/betulcihan/fye_mobile
----------------------------------------------------------------
-Back-End Limkimiz : https://github.com/Tahatuna/fromYourEyes-be
+###Github Repolar:
+- Front-end Linkimiz : https://github.com/betulcihan/fye_mobile
+- Back-End Limkimiz : https://github.com/Tahatuna/fromYourEyes-be
 
 19 Mayıs Atatürk’ü Anma Gençlik ve Spor Bayramı kapsamında; İstanbul Büyükşehir Belediyesi ve Microsoft Türkiye iş birliği ile, Coderspace organizasyonu ile gerçekleşen ‘Sürdürülebilir Şehirler Hackathon’u projelerini içermektedir. Hackathon detayları için : https://surdurulebilirsehirler.ist/
 
